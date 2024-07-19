@@ -1,3 +1,6 @@
 # download
 简易的多线程下载器
 用于实现文件下载
+downloader用于存放下载文件的存放路径，在../download_files/folder文件下保存.
+urls是所需要下载的文件连接组，filenames是最终下载后保存的文件名称组
+只需要修改urls里的链接和filenames最终保存的名称即可
